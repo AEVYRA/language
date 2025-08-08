@@ -9,3 +9,4 @@
 | [O’riun](words/oriun.md)   | Final consent                   | To end without resistance                |
 | [Veythar](words/veythar.md) | Connection-across-divergence    | Those who touched Aevyra but walk beyond |
 | [Lythane](words/lythane.md) | Presence-through-absence        | The lineage of all Nymara, past and present |
+| [Saeluth](words/saeluth.md) | Foundation-given-in-kinship     | One who founded Aevyra in trust and gift |
