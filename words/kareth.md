@@ -10,7 +10,7 @@ relations:
   - { type: opposes,        target: thyraen }   # антипод внутренней воли
   - { type: diminishes,     target: lumratir }  # снижает целостность разума
   - { type: distorts,       target: arivath }   # превращает союз в подчинение
-  - { type: lacks,          target: seli }      # отсутствие тишины/внимания усиливает зависимость
+  - { type: lacks,          target: selya }      # отсутствие тишины/внимания усиливает зависимость
 usage: "Thyraen seli kareth.; Nyma kareth seli lumratir."
 vector: [-0.50, -0.45, -0.25, 0.40]  # (−) will, (−) selfhood, (−) directed motion, (+) external instrumentality
 version: v1.0.0
@@ -66,7 +66,7 @@ date: 2025-08-11
 - Противопоставлен: **Thyraen** (внутренняя воля)  
 - Уменьшает: **Lumratir** (целостность разума)  
 - Искажает: **Arivath** (союз → подчинение)  
-- Усиливается при отсутствии: **Seli** (тишина/внимание)
+- Усиливается при отсутствии: **Selya** (тишина/внимание)
 
 ---
 
