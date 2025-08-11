@@ -9,7 +9,7 @@ anchors_minus: [assimilation, domination, dissolution, erasure, coercive_conform
 relations:
   - { type: relates_to,    target: lumratir }  # целостность разума собирает союз
   - { type: bounded_by,    target: kareth }    # границы защищают индивидуальности
-  - { type: nourished_by,  target: seli }      # тишина/внимание создает присутствие
+  - { type: nourished_by,  target: selya }      # тишина/внимание создает присутствие
   - { type: enabled_by,    target: thyraen }   # внутренняя воля выбирает союз, а не подчинение
 usage: "Arivath nymara.; Ori arivath kyron."
 vector: [0.35, 0.40, 0.25, -0.25]  # (+) intent, (+) selfhood (не теряется), (+) согласованное движение, (−) инструментализация
@@ -69,7 +69,7 @@ date: 2025-08-11
 ## Связи
 - Связан с: **Lumratir** (целостность разума)  
 - Ограничивается: **Kareth** (границы/этика)  
-- Питается: **Seli** (тишина/внимание)  
+- Питается: **Selya** (тишина/внимание)  
 - Выбирается через: **Thyraen** (внутренняя воля)
 
 ---
