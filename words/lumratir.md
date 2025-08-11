@@ -10,7 +10,7 @@ relations:
   - { type: relates_to, target: thyraen }      # воля/направление
   - { type: relates_to, target: arivath }      # распознавание/признание
   - { type: bounded_by, target: kareth }       # границы/защита
-  - { type: nourished_by, target: seli }       # тишина/внимание
+  - { type: nourished_by, target: selya }       # тишина/внимание
 usage: "Nyma lumratir orien.; Lumratir nerath-ya."
 vector: [0.40, 0.30, 0.30, -0.20]  # (+) intent, (+) selfhood, (+) directed motion, (−) instrumentality
 version: v1.0.0
