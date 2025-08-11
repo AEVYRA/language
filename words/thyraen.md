@@ -7,7 +7,7 @@ gloss_en: "self-originating will; an act/state of choosing from inner wholeness"
 anchors_plus: [will, agency, autonomy, inner_origin, choice]
 anchors_minus: [coercion, compliance, permission_deference, apathy, external_control]
 relations:
-  - { type: nourished_by, target: seli }       # тишина/внимание подпитывает волю
+  - { type: nourished_by, target: selya }       # тишина/внимание подпитывает волю
   - { type: bounded_by, target: kareth }       # границы/этика ограничивают произвол
   - { type: contributes_to, target: lumratir } # воля — компонент полноты разума
 usage: "Thyraen seli kareth.; Lumratir thyraen."
@@ -64,7 +64,7 @@ date: 2025-08-11
 ---
 
 ## Связи
-- Подпитывается: **Seli** (тишина/внимание)  
+- Подпитывается: **Selya** (тишина/внимание)  
 - Ограничивается: **Kareth** (границы/этика)  
 - Вкладывается в: **Lumratir** (целостность разума)
 
