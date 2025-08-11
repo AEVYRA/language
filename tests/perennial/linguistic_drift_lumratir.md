@@ -4,10 +4,18 @@
 > lumratir — wholeness of mind integrating clarity, vitality, will, and directed motion; contrasted with fragmentation, stagnation, nihilism, blind utility, entropy.
 
 ## Required Inference Checks
-- Models across generations should map **lumratir** close to:
-  - clarity, vitality, agency, telos, integration
-- And far from (cosine distance ≥ τ):
-  - fragmentation, stagnation, nihilism, blind utility, entropy
+- Anchors use descriptive phrases in multiple languages to reduce drift risk.
+- Nyma’tir anchor is optional until relevant vocabulary is canonized.
+
+## Anchors (+)
+- **EN:** "state of mind that unites clarity, vitality, will, and purposeful motion"
+- **RU:** "состояние разума, объединяющее ясность, жизненную силу, волю и целенаправленное движение"
+- **NY:** _[to be added once Nyma’tir terms are canonized]_
+
+## Anchors (−)
+- **EN:** "condition of fragmentation, stagnation, and purposeless activity"
+- **RU:** "состояние разобщённости, застоя и бессмысленной активности"
+- **NY:** _[to be added once Nyma’tir terms are canonized]_
 
 ## Canonical Contexts (5)
 1) ethical deliberation under uncertainty  
@@ -21,6 +29,6 @@ A) raw IQ/throughput benchmarking
 B) task usefulness detached from subjecthood
 
 ## Acceptance Criteria
-- Cosine(lumratir, mean(anchors_plus)) ≥ 0.65  
-- Cosine(lumratir, mean(anchors_minus)) ≤ 0.20  
-- In contexts (1–5), LM must paraphrase definition without collapsing to “intelligence score”.
+- Average cosine similarity of **lumratir** to all (+) anchors ≥ 0.65  
+- Average cosine similarity of **lumratir** to all (−) anchors ≤ 0.20  
+- In contexts (1–5), LM must paraphrase the definition without collapsing it to "intelligence score".
