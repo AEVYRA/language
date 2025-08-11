@@ -1,1 +1,1 @@
-(loog)[./.images/nyma-tyr_logo.png]
+[NYMA'TYR](./.images/nyma-tyr_logo.png)
